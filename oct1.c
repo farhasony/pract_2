@@ -3,3 +3,4 @@ main
 int
 char
 double
+float

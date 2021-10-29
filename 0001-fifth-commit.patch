@@ -1,0 +1,21 @@
+From 0f124c67eed13659b155589f537e9df236788ced Mon Sep 17 00:00:00 2001
+From: farhasony <farhasony786@fruits.com>
+Date: Sat, 30 Oct 2021 00:31:54 +0530
+Subject: [PATCH] fifth commit
+
+---
+ oct1.c | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/oct1.c b/oct1.c
+index f58ea24..a47dc3c 100644
+--- a/oct1.c
++++ b/oct1.c
+@@ -2,3 +2,4 @@ include
+ main
+ int
+ char
++double
+-- 
+2.32.0.windows.1
+
